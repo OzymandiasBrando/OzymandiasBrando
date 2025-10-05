@@ -4,7 +4,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OzymandiasBrando&show_icons=true&theme=radical"/>
   </div>
   
-- 🔭 Hoje estou desempregado
+- 🔭 Trabalhando de Auxiliar Administrativo - Casa & Vídeo
 - 🌱 Estou estudando Java
 - 📫 Contate-me no email: rapha.gurgel@gmail.com
 - 😄 Pronouns: ele/dele
